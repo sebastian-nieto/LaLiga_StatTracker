@@ -26,7 +26,3 @@ The project involves the following:
 - **Database**: Postgres and SQL (for storing player statistics)
 - **Backend**: Spring Boot (for dynamic manipulation and presentation of scraped data)
 - **Frontend**: React (for creating the UI)
-
-## Installation and Usage
-
-1. Clone the repository:
