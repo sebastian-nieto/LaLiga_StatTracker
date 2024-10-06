@@ -16,6 +16,12 @@ The project involves the following:
 - Data scraper is functioning properly.
 - SQL database has been created to store the scraped data.
 
+### October 6th Update
+- Successfully implemented a Spring Boot backend to manage player data with a RESTful API.
+- Created a SQL database to store player statistics and related information.
+- The React frontend is still in the works and will be developed to interact with the Spring Boot API for fetching and managing player data.
+
+
 ## Tech Stack
 
 - **Data Scraping**: Python and pandas  (for web scraping)
